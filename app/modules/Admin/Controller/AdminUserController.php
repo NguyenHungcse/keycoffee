@@ -4,6 +4,7 @@
  * AdminUserController
  * @copyright Copyright (c) 2011 - 2014 Aleksandr Torosh (http://wezoom.com.ua)
  * @author Aleksandr Torosh <webtorua@gmail.com>
+ * Dog Trung
  */
 
 namespace Admin\Controller;
