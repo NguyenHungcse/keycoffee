@@ -9,9 +9,6 @@
 
 namespace Admin\Controller;
 
-use Application\Mvc\Controller;
-use Admin\Form\AdminUserForm;
-use Admin\Model\AdminUser;
 
 class AdminUserController extends Controller
 {
